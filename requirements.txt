@@ -35,6 +35,7 @@ archspec @ file:///croot/archspec_1709217642129/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/argon2-cffi-bindings_1699264521425/work
 arrow @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/arrow_1699264564853/work
+asgiref==3.10.0
 astroid @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/astroid_1699245291542/work
 astropy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b89rq1k_rm/croot/astropy_1726174615721/work
 astropy-iers-data @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fag9s9no07/croot/astropy-iers-data_1726000544957/work
@@ -93,6 +94,8 @@ diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630
 dill @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_774m4l3azq/croot/dill_1715094674566/work
 distributed @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c2f3kpci15/croot/distributed_1725523023216/work
 distro @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b5l_bzm_c4/croot/distro_1714488255954/work
+dj-database-url==3.0.1
+Django==5.2.8
 dmglib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c274akzxeo/croot/dmglib_1719996269027/work
 docstring-to-markdown @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/docstring-to-markdown_1699248259185/work
 docutils @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/docutils_1699240610068/work
@@ -110,6 +113,7 @@ gensim @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b6g
 gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f76uw0_f83/croot/gitpython_1720455038091/work
 greenlet @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_10cuim1il_/croot/greenlet_1702059962773/work
+gunicorn==23.0.0
 h11 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_14h6x3q_k6/croot/h11_1706652288187/work
 h5py @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_3cp9aol8sr/croot/h5py_1715094733268/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
@@ -331,6 +335,7 @@ sphinxcontrib-serializinghtml @ file:///private/var/folders/sy/f16zz6x50xz3113nw
 spyder @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2e74_t0sqb/croot/spyder_1727197283857/work
 spyder-kernels @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ffnypxgbj4/croot/spyder-kernels_1707937709341/work
 SQLAlchemy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_37udwgy09c/croot/sqlalchemy_1725885054122/work
+sqlparse==0.5.3
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_e7o9t8r4qh/croot/statsmodels_1718381195447/work
 streamlit @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8ayulo48q_/croot/streamlit_1724335168993/work
